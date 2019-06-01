@@ -21,7 +21,7 @@ def find_the_cheese(arr)
   result
 end
 
-my_arr = ['er', 'rr', 'gouda']
-my_arr2 = ['er', 'rr', 'sdfdf']
-puts find_the_cheese(my_arr)
-puts find_the_cheese(my_arr2)
+# my_arr = ['er', 'rr', 'gouda']
+# my_arr2 = ['er', 'rr', 'sdfdf']
+# puts find_the_cheese(my_arr)
+# puts find_the_cheese(my_arr2)
