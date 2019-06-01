@@ -6,7 +6,7 @@ end
 
 def summon_captain_planet(arr)
   my_arr = arr
-  arr.collect_concat { |i| i.upcase + "!" }
+  my_arr.arr.collect_concat { |i| i.upcase + "!" }
 end
 
 def long_planeteer_calls# code an argument here
