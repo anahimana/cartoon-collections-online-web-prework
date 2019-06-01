@@ -5,9 +5,8 @@ def roll_call_dwarves(arr)
 end
 
 def summon_captain_planet(arr)
-  my_arr = arr
-  arr.collect_concat { |i| i.upcase + "!" }
-end
+[1, 2, 3, 4].flat_map { |e| [e, -e] } #=> [1, -1, 2, -2, 3, -3, 4, -4]
+[[1, 2], [3, 4]].flat_map { |e| e + [100] } #=> [1, 2, 100, 3, 4, 100]end
 
 def long_planeteer_calls# code an argument here
   # Your code here
