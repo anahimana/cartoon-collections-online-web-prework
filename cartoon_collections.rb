@@ -1,6 +1,6 @@
 def roll_call_dwarves(arr)# code an argument here
   # Your code here
-  arr.each do {str | puts str}
+  arr.each do |str|
   end
 end
 
