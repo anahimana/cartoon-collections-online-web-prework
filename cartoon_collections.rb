@@ -1,12 +1,11 @@
 def roll_call_dwarves(arr)
-  my_arr = arr
-  my_arr.arr.each_with_index do |str, index|
+  arr.each_with_index do |str, index|
     puts "#{index + 1}. #{str}"
   end
 end
 
 def summon_captain_planet(arr)
-  arr.collect_concat { |i| i.upcase + "!" }
+  arr.arr.collect_concat { |i| i.upcase + "!" }
 end
 
 def long_planeteer_calls# code an argument here
