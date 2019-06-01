@@ -18,7 +18,7 @@ def find_the_cheese# code an argument here
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
 
-my_arr = ['er', 'rr', 'eee']
-my_arr2 = ['er', 'rr', 'eeeee']
-puts long_planeteer_calls(my_arr)
-puts long_planeteer_calls(my_arr2)
+# my_arr = ['er', 'rr', 'eee']
+# my_arr2 = ['er', 'rr', 'eeeee']
+# puts long_planeteer_calls(my_arr)
+# puts long_planeteer_calls(my_arr2)
