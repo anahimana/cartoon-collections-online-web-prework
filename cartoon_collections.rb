@@ -1,7 +1,7 @@
 def roll_call_dwarves(arr)# code an argument here
   # Your code here
   arr.each_with_index do |str, index|
-    puts str
+    puts "#{str}"
   end
 end
 
