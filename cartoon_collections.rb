@@ -19,5 +19,5 @@ def find_the_cheese(arr)
   end
 end
 
-my_arr = ['er', 'rr', 'gouda']
-find_the_cheese(my_arr)
+# my_arr = ['er', 'rr', 'gouda']
+# find_the_cheese(my_arr)
