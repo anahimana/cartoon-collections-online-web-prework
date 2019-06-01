@@ -1,4 +1,4 @@
-def roll_call_dwarves(arg)# code an argument here
+def roll_call_dwarves(arr)# code an argument here
   # Your code here
 end
 
