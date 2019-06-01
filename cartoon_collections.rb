@@ -8,7 +8,7 @@ def summon_captain_planet(arr)
   arr.collect { |i| i.capitalize + "!" }
 end
 
-def long_planeteer_calls(arr
+def long_planeteer_calls(arr)
   arr.any? { |word| word.length > 4 }
 end
 
