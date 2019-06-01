@@ -18,6 +18,7 @@ def find_the_cheese(arr)
   cheese_types.each do |cheese|
     result = true if arr.include?(cheese)
   end
+  result
 end
 
 my_arr = ['er', 'rr', 'gouda']
