@@ -18,4 +18,4 @@ def find_the_cheese# code an argument here
 end
 
 # my_arr = ['Apple', 'Banana', 'Orange']
-puts summon_captain_planet(my_arr)
+# puts summon_captain_planet(my_arr)
