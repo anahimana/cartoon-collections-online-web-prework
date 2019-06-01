@@ -14,6 +14,7 @@ end
 
 def find_the_cheese(arr)
   cheese_types = ["cheddar", "gouda", "camembert"]
+  cheese_types.each do |cheese|
 end
 
 # my_arr = ['er', 'rr', 'eee']
