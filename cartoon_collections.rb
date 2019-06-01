@@ -20,3 +20,4 @@ def find_the_cheese# code an argument here
 end
 
 my_arr = ['Apple!', 'Banana!', 'Orange!']
+summon_captain_planet(my_arr)
