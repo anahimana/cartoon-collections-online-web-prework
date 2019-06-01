@@ -5,7 +5,7 @@ def roll_call_dwarves(arr)
 end
 
 def summon_captain_planet(arr)
-  my_arr = my_arr
+  my_arr = arr
   arr.collect_concat { |i| i.upcase + "!" }
 end
 
