@@ -17,5 +17,5 @@ def find_the_cheese# code an argument here
   cheese_types = ["cheddar", "gouda", "camembert"]
 end
 
-my_arr = ['apple', 'Banana', 'Orange']
+my_arr = ['apple', 'banna', 'orange']
 # puts summon_captain_planet(my_arr)
