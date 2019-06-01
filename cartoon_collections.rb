@@ -19,4 +19,6 @@ def find_the_cheese# code an argument here
 end
 
 my_arr = ['er', 'rr', 'eee']
+my_arr2 = ['er', 'rr', 'eee']
 puts long_planeteer_calls(my_arr)
+puts long_planeteer_calls(my_arr2)
