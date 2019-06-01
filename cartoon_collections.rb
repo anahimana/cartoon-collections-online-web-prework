@@ -10,9 +10,7 @@ end
 
 def long_planeteer_calls(arr)# code an argument here
   # Your code here
-  arr.any? do |str|
-    puts str.length
-  end
+  arr.any? { |word| word.length > 4 }
 end
 
 def find_the_cheese# code an argument here
@@ -21,6 +19,6 @@ def find_the_cheese# code an argument here
 end
 
 my_arr = ['er', 'rr', 'eee']
-my_arr2 = ['er', 'rr', 'eeeee']
+my_arr2 = ['er', 'rr', 'eeee']
 puts long_planeteer_calls(my_arr)
 puts long_planeteer_calls(my_arr2)
